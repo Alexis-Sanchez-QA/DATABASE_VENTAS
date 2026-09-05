@@ -4,8 +4,6 @@ Desktop sales and inventory application developed using Visual Studio and SQL Se
 
 ## Database Architecture & ERD Diagram
 
-![Database Diagram](database-diagram.png)
-
 ## Key Features & Tech Stack
 * **IDE:** Visual Studio
 * **Database Management System:** Microsoft SQL Server (SSMS)
